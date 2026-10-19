@@ -1,0 +1,16 @@
+package:com.jio.jioplay.tu
+package:eu.chainfire.tv.sideloadlauncher
+package:com.spotify.tv.android
+package:com.mobisystems.fileman
+package:com.tcl.browser
+package:com.dazn
+package:org.localsend.localsend_app
+package:in.startv.hotstar
+package:com.mxtech.videoplayer.ad
+package:com.fifa.plus.android
+package:com.graymatrix.did
+package:org.videolan.vlc
+package:com.neilturner.aerialviews
+package:com.fancode.tv
+package:com.yablio.sendfilestotv
+package:com.uefa.uefatv.androidtv

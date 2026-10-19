@@ -1,0 +1,15 @@
+# Gradle / Kotlin build output
+.gradle/
+.kotlin/
+build/
+*.apk
+launcher/local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Raw TV dumps containing device identifiers (Android ID, Bluetooth MAC, serial).
+# restore.sh only needs the package lists, so these stay local.
+backup/settings_secure.txt
+backup/getprop.txt
