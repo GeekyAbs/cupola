@@ -1,0 +1,14 @@
+2026-10-19T17:39:36+05:30 uninstall --user 0 com.smartdevice.acr.recommendation
+2026-10-19T17:39:39+05:30 uninstall --user 0 com.smartdevice.speedchannels
+2026-10-19T17:39:42+05:30 uninstall --user 0 com.mediatek.wwtv.tvrecommendation
+2026-10-19T17:39:45+05:30 uninstall --user 0 com.smartdevice.epopplayer
+2026-10-19T17:39:48+05:30 uninstall --user 0 fusion.android.tv.demo
+2026-10-19T17:39:50+05:30 uninstall --user 0 com.smartdevice.leanbacklauncher.customizer
+2026-10-19T17:39:52+05:30 uninstall --user 0 com.google.android.leanbacklauncher.partnercustomizer
+2026-10-19T17:39:54+05:30 uninstall --user 0 android.autoinstalls.config.SW
+2026-10-19T17:39:55+05:30 uninstall --user 0 com.mstar.android.tv.disclaimercustomization
+2026-10-19T17:39:58+05:30 uninstall --user 0 com.qjy.browser
+2026-10-19T17:40:01+05:30 uninstall --user 0 com.homwee.howtocast
+2026-10-19T17:40:03+05:30 uninstall --user 0 com.google.android.tvrecommendations
+2026-10-19T18:11:00+05:30 disable-user --user 0 com.homwee.howtocast (came back after uninstall)
+2026-10-19T18:11:00+05:30 disable-user --user 0 com.google.android.tvrecommendations (came back after uninstall)
