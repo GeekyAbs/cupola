@@ -1,4 +1,4 @@
-# Glass
+# Cupola
 
 A calm, minimal launcher for Android TV, plus a reversible de-bloat of a realme Smart TV (Android TV 11).
 
